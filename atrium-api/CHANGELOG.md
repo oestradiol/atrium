@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.24.5](https://github.com/oestradiol/atrium/compare/atrium-api-v0.24.4...atrium-api-v0.24.5) - 2024-09-19
+
+### Other
+
+- Proposed fix: configuring and formatting project. ([#229](https://github.com/oestradiol/atrium/pull/229))
+
 ## [0.24.4](https://github.com/sugyan/atrium/compare/atrium-api-v0.24.3...atrium-api-v0.24.4) - 2024-09-14
 
 ### Other

@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.10](https://github.com/oestradiol/atrium/compare/bsky-sdk-v0.1.9...bsky-sdk-v0.1.10) - 2024-09-19
+
+### Other
+
+- Proposed fix: configuring and formatting project. ([#229](https://github.com/oestradiol/atrium/pull/229))
+
 ## [0.1.9](https://github.com/sugyan/atrium/compare/bsky-sdk-v0.1.8...bsky-sdk-v0.1.9) - 2024-09-13
 
 ### Added

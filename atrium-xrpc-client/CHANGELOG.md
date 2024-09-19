@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.7](https://github.com/oestradiol/atrium/compare/atrium-xrpc-client-v0.5.6...atrium-xrpc-client-v0.5.7) - 2024-09-19
+
+### Other
+
+- Proposed fix: configuring and formatting project. ([#229](https://github.com/oestradiol/atrium/pull/229))
+
 ## [0.5.6](https://github.com/sugyan/atrium/compare/atrium-xrpc-client-v0.5.5...atrium-xrpc-client-v0.5.6) - 2024-08-13
 
 ### Added
